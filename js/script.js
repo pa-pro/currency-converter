@@ -1,4 +1,9 @@
-console.log("Cześć!");
+function welcome() {
+console.log("Cześć!"); 
+}
+
+welcome();
+
 
 let currencyElement = document.querySelector(".js-currency");
 let plnElement = document.querySelector(".js-pln");
