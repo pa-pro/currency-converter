@@ -12,6 +12,9 @@ It's a simple app created for learning purposes, as a project for one of **YouCo
 ## Demo
 https://pa-pro.github.io/currency-converter/
 
+![converter](https://user-images.githubusercontent.com/83086939/116903137-4c1e4700-ac3c-11eb-9050-ac45252c455e.gif)
+
+
 ## Technologies
 - HTML 5
 - CSS - alternative box model, flex-box.
