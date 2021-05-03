@@ -23,3 +23,6 @@ https://pa-pro.github.io/currency-converter/
 ## Methodologies
 BEM - The Block, Element, Modifier methodology is a popular naming convention for classes in HTML and CSS. 
 http://getbem.com/introduction/
+
+## Contact:
+Please feel free to contact me on: patrycja.osuch@gmail.com
