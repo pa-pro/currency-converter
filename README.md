@@ -1,5 +1,4 @@
 # Currency-converter
-## Description 
 As an aspiring Front-End Developer I have created this simple app as a project for one of the modules of **YouCode Front-End Developer course**, that I'm participating in. 
 
 ## How to use it?
