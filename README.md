@@ -1,6 +1,6 @@
 # Currency-converter
 ## Description 
-It's a simple app created for learning purposes, as a project for one of **YouCode Frontend-developer course** modules. 
+As an aspiring Front-End Developer I have created this simple app as a project for one of the modules of **YouCode Front-End Developer course**, that I'm participating in. 
 
 ## How to use it?
 
